@@ -33,10 +33,10 @@ export default function Footer() {
           <FooterTitle variant="body1">About us</FooterTitle>
           <Typography variant="caption2">
           sumairzahid123@gmail.com
-          </Typography>
+          </Typography><br/>
           <Typography variant="caption2">
          +92 332 3206471
-          </Typography>
+          </Typography><br/>
           <Typography variant="caption2">
           Karachi, Pakistan
           </Typography>
