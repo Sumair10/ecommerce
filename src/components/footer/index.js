@@ -32,9 +32,13 @@ export default function Footer() {
         <Grid item md={6} lg={4}>
           <FooterTitle variant="body1">About us</FooterTitle>
           <Typography variant="caption2">
-            Lorem ipsum dolor sit amet cons adipisicing elit sed do eiusm tempor
-            incididunt ut labor et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud.
+          sumairzahid123@gmail.com
+          </Typography>
+          <Typography variant="caption2">
+         +92 332 3206471
+          </Typography>
+          <Typography variant="caption2">
+          Karachi, Pakistan
           </Typography>
           <Box
             sx={{
